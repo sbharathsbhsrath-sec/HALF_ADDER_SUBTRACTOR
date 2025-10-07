@@ -59,3 +59,8 @@ Developed by: RegisterNumber:*/
 **Output/TIMING Waveform**
 
 **Result:**
+<img width="1169" height="433" alt="exe3 half adder logic" src="https://github.com/user-attachments/assets/a4ff8a6f-04d4-42f6-b2c2-8a42d20fa633" />
+<img width="1920" height="1080" alt="exe3 half adder timing" src="https://github.com/user-attachments/assets/4cf7ecde-52f8-4325-886c-073c73449343" />
+<img width="879" height="306" alt="exe3 half sub logic" src="https://github.com/user-attachments/assets/0d18cae6-782d-4527-8cbd-eace72238dae" />
+<img width="1920" height="1080" alt="exe3 half sub timing" src="https://github.com/user-attachments/assets/04545343-c48d-4d1b-acb3-83d530ad4a4d" />
+
